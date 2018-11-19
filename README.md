@@ -15,6 +15,9 @@ The App created during "Modern React with Redux" Udemy course by Stephen Grider.
 
 ## Setup
 
+To run the project:
 ```
-lalala
+ 1. npm i
+ 2. $ npm run start
+ 3. Open  local host http://localhost:8080
 ```
