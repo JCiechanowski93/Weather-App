@@ -12,6 +12,7 @@ The App created during "Modern React with Redux" Udemy course by Stephen Grider.
 - Webpack
 - CSS3
 - Bootstrap
+- API - https://openweathermap.org/api
 
 ## Setup
 
